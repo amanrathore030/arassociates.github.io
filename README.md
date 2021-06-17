@@ -1,39 +1,7 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@amanrathore030 
-amanrathore030
-/
-arassociates.github.io
-Template
-1
-00
-Code
-Issues
-Pull requests
-Discussions
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-arassociates.github.io/index.php /
-@amanrathore030
-amanrathore030 my first website
-Latest commit f56d128 2 days ago
- History
- 1 contributor
-194 lines (142 sloc)  4.91 KB
-  
+
 <?php
 include("confi.php");
-
 ?>
 
 <!DOCTYPE html>
